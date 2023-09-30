@@ -1,7 +1,7 @@
 ![Development and Open Source Contribution](https://pbs.twimg.com/profile_banners/1495246862034485249/1691513830/1080x360)
 
-### Hi there 👋, my name is Shreyansh
-#### Development and Open Source Contribution
+# Shreyansh Shukla
+## Development and Open Source Contribution
 
 Hi! I'm Shreyansh Shukla, a sophomore at IIIT Una (HP, Bharat). I am a web developer working on MERN stack and also know C++ and C languages.I also know about LaTeX, MatLab and Arduino technologies.
 
