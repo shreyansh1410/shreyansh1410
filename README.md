@@ -5,7 +5,8 @@
 
 Hi! I'm Shreyansh Shukla, a sophomore at IIIT Una (HP, Bharat). I am a web developer working on MERN stack and also know C++ and C languages.I also know about LaTeX, MatLab and Arduino technologies.
 
-Skills: HTML/CSS/Javascript
+Skills: 
+- 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning MERN and DSA 
