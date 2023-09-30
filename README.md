@@ -21,8 +21,6 @@ Skills: HTML/CSS/Javascript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansh1410&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shreyansh1410)  
-
 ![GitHub metrics](https://metrics.lecoq.io/shreyansh1410)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shreyansh1410)  
