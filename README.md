@@ -28,4 +28,4 @@ Skills:
 
 ![Profile views](https://gpvc.arturio.dev/shreyansh1410)  
 
-[![@shreyansh1410's Holopin board](https://holopin.io/api/user/board?user=shreyansh1410)](https://holopin.io/@shreyansh1410)
+[![An image of @shreyansh1410's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyansh1410)](https://holopin.io/@shreyansh1410)
