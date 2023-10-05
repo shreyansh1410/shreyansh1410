@@ -1,4 +1,3 @@
-![Development and Open Source Contribution]()
 ![image](https://github.com/shreyansh1410/shreyansh1410/assets/109788335/09de6f9a-b267-4c16-9e21-8b5ca87c175b)
 
 
