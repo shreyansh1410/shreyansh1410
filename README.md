@@ -27,3 +27,5 @@ Skills:
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shreyansh1410)  
 
 ![Profile views](https://gpvc.arturio.dev/shreyansh1410)  
+
+[![@shreyansh1410's Holopin board](https://holopin.io/api/user/board?user=shreyansh1410)](https://holopin.io/@shreyansh1410)
