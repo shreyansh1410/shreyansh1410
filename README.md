@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh1410&" alt="shreyansh1410" /></p>
 
-https://github-readme-stats.vercel.app/api?username=shreyansh1410&theme=midnight-purple&show_icons=true
+![Shreyansh Shukla's Github Stats](https://github-readme-stats.vercel.app/api?username=shreyansh1410&theme=midnight-purple&show_icons=true)
