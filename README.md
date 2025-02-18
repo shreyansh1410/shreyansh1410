@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shreyansh1410" target="blank"><img src="https://img.shields.io/twitter/follow/shreyansh1410?logo=twitter&style=for-the-badge" alt="shreyansh1410" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Databases**
 
-- 💬 Ask me about **Reactjs, C++, C**
+- 💬 Ask me about **MongoDB, Reactjs, ExpressJs, Nodejs, Javascript, TypeScript, ORMs**
 
 - 📫 How to reach me **shreyansh.14010@gmail.com**
 
@@ -17,7 +17,6 @@
 <p align="left">
 <a href="https://dev.to/shreyansh1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shreyansh1410" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyansh1410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyansh1410" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shreyshuk10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyshuk10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreyyy14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyyy14" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shreyyy14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreyyy14" height="30" width="40" /></a>
 </p>
