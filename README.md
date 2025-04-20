@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh1410" alt="shreyansh1410" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shreyansh1410" target="blank"><img src="https://img.shields.io/twitter/follow/shreyansh1410?logo=twitter&style=for-the-badge" alt="shreyansh1410" /></a> </p>
 
 - 🌱 I’m currently learning **Databases**
 
